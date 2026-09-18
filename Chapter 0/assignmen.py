@@ -1,5 +1,5 @@
 # Print Your name 10 times using * this symbol
-print("My name is Muntasir " * 10)
+print(("My name is Muntasir " + "\n") * 10)
 
 # This is a comment
 
